@@ -1,6 +1,6 @@
 # **PowerThesaurus word synonyms**
 
-## _This python script allows you to fetch top 5 highest rated synonyms for any number of words from power Thesaurus https://www.powerthesaurus.org/_
+## This python script allows you to fetch top 5 highest rated synonyms for any number of words from power Thesaurus https://www.powerthesaurus.org/
 
 ### **How to use?**
 
